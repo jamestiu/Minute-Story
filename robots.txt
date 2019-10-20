@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jamestiu.github.io/Minute-Story/sitemap_index.xml
