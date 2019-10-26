@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//jamestiu.github.io/Minute-Story/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//foundin.xyz/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://jamestiu.github.io/Minute-Story/</loc>
+		<loc>https://foundin.xyz/</loc>
 	</url>
 	<url>
-		<loc>https://jamestiu.github.io/Minute-Story/sample-page/</loc>
+		<loc>https://foundin.xyz/sample-page/</loc>
 		<lastmod>2019-10-20T11:40:22+00:00</lastmod>
 	</url>
 </urlset>
