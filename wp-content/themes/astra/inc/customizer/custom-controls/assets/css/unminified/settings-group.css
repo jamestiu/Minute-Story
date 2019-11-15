@@ -28,7 +28,6 @@
 .ast-group-tabs ul.ast-group-list .ui-corner-top.ui-state-active {background-color: #0185ba;border: 1px solid rgba(0,0,0,.1);}
 .ast-group-tabs .ui-tabs-nav {overflow: visible;}
 .ast-group-tabs ul.ast-group-list .ui-corner-top:not(:first-child) {border-left-width: 0;}
-.ast-field-settings-modal .customize-control-ast-responsive-background .ast-responsive-bg-color-control.wp-color-picker, .ast-field-settings-modal .customize-control-ast-responsive-color .ast-responsive-color.wp-color-picker {width: 67px !important;}
 .ast-field-settings-modal .customize-control-ast-responsive-background .wp-picker-clear, .ast-field-settings-modal .customize-control-ast-responsive-color .wp-picker-clear {margin-left: 6px;}
 .wp-core-ui .ast-field-settings-modal .background-image-upload .button {font-size: 11px;}
 .ast-field-settings-modal .customize-control {padding-left: 15px;padding-right: 15px;box-sizing: border-box;}

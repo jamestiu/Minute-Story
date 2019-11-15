@@ -1,5 +1,4 @@
 #customize-controls .customize-control-notifications-container {margin: 0;}
-.customize-control-ast-background .ast-color-control.wp-color-picker {width: 67px !important;line-height: 17px;}
 .customize-control-ast-background .wp-picker-clear {margin-left: 2%;}
 .customize-control-ast-background .screen-reader-text {top: initial;}
 .customize-control-ast-background .background-container h4 {font-weight: 400;}
@@ -36,14 +35,12 @@
 .customize-control-ast-border .input-wrapper .ast-border-wrapper .ast-border-input-item-link .ast-border-connected {background-color: #1e8cbe;}
 .customize-control-ast-color .wp-color-result span {background: #f7f7f7;}
 .customize-control-ast-color .wp-color-result span.color-alpha {height: 22px !important;}
-.customize-control-ast-color .ast-color-picker-alpha.wp-color-picker {width: 67px !important;line-height: 17px;}
 .customize-control-ast-color .wp-picker-clear {margin-left: 2%;}
 .wp-picker-input-wrap label {font-size: 0;}
 @media (max-width:1755px) {.iris-picker.iris-border {width: 245px !important;}
 	.iris-slider.iris-strip, .iris-strip.iris-slider.iris-alpha-slider {width: 13px !important;margin-left: 8px !important;}}
 @media (min-width:1900px) {.iris-slider.iris-strip, .iris-strip.iris-slider.iris-alpha-slider {margin-left: 8px !important;}}
 #customize-controls .customize-control-notifications-container {margin: 0;}
-.customize-control-ast-background .ast-color-control.wp-color-picker {width: 67px !important;line-height: 17px;}
 .customize-control-ast-background .wp-picker-clear {margin-left: 2%;}
 .customize-control-ast-background .screen-reader-text {top: initial;}
 .customize-control-ast-background .background-container h4 {font-weight: 400;}
@@ -80,7 +77,6 @@
 .customize-control-ast-border .input-wrapper .ast-border-wrapper .ast-border-input-item-link .ast-border-connected {background-color: #1e8cbe;}
 .customize-control-ast-color .wp-color-result span {background: #f7f7f7;}
 .customize-control-ast-color .wp-color-result span.color-alpha {height: 22px !important;}
-.customize-control-ast-color .ast-color-picker-alpha.wp-color-picker {width: 67px !important;line-height: 17px;}
 .customize-control-ast-color .wp-picker-clear {margin-left: 2%;}
 .wp-picker-input-wrap label {font-size: 0;}
 @media (max-width:1755px) {.iris-picker.iris-border {width: 245px !important;}
@@ -99,6 +95,8 @@
 .customize-control .ast-control-tooltip {position: absolute;top: 0;right: 0;}
 .customize-control.customize-control-ast-divider .ast-control-tooltip {position: absolute;top: auto;bottom: 3px;right: 0;}
 .ast-fields-wrap .customize-control .ast-control-tooltip {right: 15px;top: 6px;}
+.customize-control .select2-search input[type=text].select2-search__field {min-height: 17px;}
+input[type=text].select2-search__field {line-height: 1;border-radius: 0;}
 #customize-theme-controls .control-section.open {height: 100%;}
 @media not all and (min-resolution:0.001dpcm) {@supports (-webkit-appearance:none) {#customize-control-astra-settings-ast-header-responsive-logo-width .wrapper {display: inline-block;width: 100%;}
 		.dashicons-desktop:before, .dashicons-smartphone:before, .dashicons-tablet:before {color: #000;opacity: .75;}
@@ -134,7 +132,6 @@
 #customize-control-astra-settings-above-header-menu-align .ast-radio-img-svg svg, #customize-control-astra-settings-below-header-menu-align .ast-radio-img-svg svg, #customize-control-astra-settings-header-main-menu-align .ast-radio-img-svg svg {width: 37px;height: 49px;}
 #customize-control-astra-settings-footer-adv .image label {margin-bottom: 12px;}
 .customize-control-ast-responsive-color .wp-picker-container {float: left;}
-.customize-control-ast-responsive-color .ast-responsive-color.wp-color-picker {width: 67px !important;line-height: 17px;}
 .customize-control-ast-responsive-color .wp-picker-clear {margin-left: 1%;}
 .customize-control-ast-responsive-color button.button.wp-color-result.wp-picker-open {margin: 0 3px 6px 0 !important;}
 .customize-control-ast-responsive-color .customize-control-content .wp-picker-container {display: none;}
@@ -235,7 +232,6 @@
 .ast-group-tabs ul.ast-group-list .ui-corner-top.ui-state-active {background-color: #0185ba;border: 1px solid rgba(0,0,0,.1);}
 .ast-group-tabs .ui-tabs-nav {overflow: visible;}
 .ast-group-tabs ul.ast-group-list .ui-corner-top:not(:first-child) {border-left-width: 0;}
-.ast-field-settings-modal .customize-control-ast-responsive-background .ast-responsive-bg-color-control.wp-color-picker, .ast-field-settings-modal .customize-control-ast-responsive-color .ast-responsive-color.wp-color-picker {width: 67px !important;}
 .ast-field-settings-modal .customize-control-ast-responsive-background .wp-picker-clear, .ast-field-settings-modal .customize-control-ast-responsive-color .wp-picker-clear {margin-left: 6px;}
 .wp-core-ui .ast-field-settings-modal .background-image-upload .button {font-size: 11px;}
 .ast-field-settings-modal .customize-control {padding-left: 15px;padding-right: 15px;box-sizing: border-box;}
@@ -298,6 +294,8 @@ span.select2-container.select2-container--default.select2-container--open li.sel
 .customize-control .ast-control-tooltip {position: absolute;top: 0;right: 0;}
 .customize-control.customize-control-ast-divider .ast-control-tooltip {position: absolute;top: auto;bottom: 3px;right: 0;}
 .ast-fields-wrap .customize-control .ast-control-tooltip {right: 15px;top: 6px;}
+.customize-control .select2-search input[type=text].select2-search__field {min-height: 17px;}
+input[type=text].select2-search__field {line-height: 1;border-radius: 0;}
 #customize-theme-controls .control-section.open {height: 100%;}
 @media not all and (min-resolution:0.001dpcm) {@supports (-webkit-appearance:none) {#customize-control-astra-settings-ast-header-responsive-logo-width .wrapper {display: inline-block;width: 100%;}
 		.dashicons-desktop:before, .dashicons-smartphone:before, .dashicons-tablet:before {color: #000;opacity: .75;}
@@ -333,7 +331,6 @@ span.select2-container.select2-container--default.select2-container--open li.sel
 #customize-control-astra-settings-above-header-menu-align .ast-radio-img-svg svg, #customize-control-astra-settings-below-header-menu-align .ast-radio-img-svg svg, #customize-control-astra-settings-header-main-menu-align .ast-radio-img-svg svg {width: 37px;height: 49px;}
 #customize-control-astra-settings-footer-adv .image label {margin-bottom: 12px;}
 .customize-control-ast-responsive-color .wp-picker-container {float: left;}
-.customize-control-ast-responsive-color .ast-responsive-color.wp-color-picker {width: 67px !important;line-height: 17px;}
 .customize-control-ast-responsive-color .wp-picker-clear {margin-left: 1%;}
 .customize-control-ast-responsive-color button.button.wp-color-result.wp-picker-open {margin: 0 3px 6px 0 !important;}
 .customize-control-ast-responsive-color .customize-control-content .wp-picker-container {display: none;}
@@ -434,7 +431,6 @@ span.select2-container.select2-container--default.select2-container--open li.sel
 .ast-group-tabs ul.ast-group-list .ui-corner-top.ui-state-active {background-color: #0185ba;border: 1px solid rgba(0,0,0,.1);}
 .ast-group-tabs .ui-tabs-nav {overflow: visible;}
 .ast-group-tabs ul.ast-group-list .ui-corner-top:not(:first-child) {border-left-width: 0;}
-.ast-field-settings-modal .customize-control-ast-responsive-background .ast-responsive-bg-color-control.wp-color-picker, .ast-field-settings-modal .customize-control-ast-responsive-color .ast-responsive-color.wp-color-picker {width: 67px !important;}
 .ast-field-settings-modal .customize-control-ast-responsive-background .wp-picker-clear, .ast-field-settings-modal .customize-control-ast-responsive-color .wp-picker-clear {margin-left: 6px;}
 .wp-core-ui .ast-field-settings-modal .background-image-upload .button {font-size: 11px;}
 .ast-field-settings-modal .customize-control {padding-left: 15px;padding-right: 15px;box-sizing: border-box;}
