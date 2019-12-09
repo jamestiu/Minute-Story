@@ -2,7 +2,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://foundin.xyz/post-sitemap.xml</loc>
-		<lastmod>2019-11-15T09:34:02+00:00</lastmod>
+		<lastmod>2019-11-30T12:42:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://foundin.xyz/page-sitemap.xml</loc>
@@ -10,11 +10,11 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://foundin.xyz/category-sitemap.xml</loc>
-		<lastmod>2019-11-15T09:34:02+00:00</lastmod>
+		<lastmod>2019-11-30T12:42:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://foundin.xyz/post_tag-sitemap.xml</loc>
-		<lastmod>2019-11-15T09:34:02+00:00</lastmod>
+		<lastmod>2019-11-30T12:42:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://foundin.xyz/author-sitemap.xml</loc>
